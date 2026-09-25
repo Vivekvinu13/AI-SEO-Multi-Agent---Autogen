@@ -1,0 +1,7 @@
+streamlit>=1.40
+autogen-agentchat>=0.7.0
+autogen-ext[openai]>=0.7.0
+python-dotenv>=1.0.1
+requests>=2.32
+beautifulsoup4>=4.12
+pydantic>=2.8
